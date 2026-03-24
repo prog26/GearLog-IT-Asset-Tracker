@@ -63,6 +63,9 @@ SAS_PROJET/
 ├── config/
 │   └── db.php          # Database connection (PDO)
 │
+├── database/
+│   └── database.sql    # SQL file to create database and tables
+│
 ├── create_user.php     # Create admin user
 ├── create.php          # Add new asset
 ├── delete.php          # Delete asset
